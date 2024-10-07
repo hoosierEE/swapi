@@ -1,11 +1,11 @@
 # swapi
-query the star wars api:
-
 Return a list of starships that have at least one pilot, along with their pilots.
 
 # usage
 
 ``` sh
+git clone https://github.com/hoosierEE/swapi.git
+cd swapi
 docker build -t swapi:0 .
 docker run swapi:0
 ```
