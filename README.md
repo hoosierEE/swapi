@@ -12,6 +12,8 @@ docker run swapi:0
 
 output:
 
-> Millennium Falcon (pilots: Chewbacca, Han Solo, Lando Calrissian, Nien Nunb)
-> X-wing (pilots: Luke Skywalker, Biggs Darklighter, Wedge Antilles, Jek Tono Porkins)
-> TIE Advanced x1 (pilots: Darth Vader)
+```
+Millennium Falcon (pilots: Chewbacca, Han Solo, Lando Calrissian, Nien Nunb)
+X-wing (pilots: Luke Skywalker, Biggs Darklighter, Wedge Antilles, Jek Tono Porkins)
+TIE Advanced x1 (pilots: Darth Vader)
+```
